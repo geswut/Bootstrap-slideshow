@@ -1,0 +1,24 @@
+.jumbotron {
+  background-image: url(../img/image.jpg);
+  color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron > div {
+  background-color: rgba(255,255,255,0.3);
+}
+
+ul {
+  text-align: right;
+  float: right;
+}
+
+#featured img {
+ height: 150px;
+object-fit: cover;
+}
+
+#slidess {
+  height: 600px;
+}
